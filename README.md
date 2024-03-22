@@ -1,5 +1,5 @@
 <h1 align="center">Hellow there!🙌</h1>
-
+<img src="[img_girl.jpg](https://dribbble.com/shots/3587000-Coding)" alt="" width="500" height="600">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/anik-samadder-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anik-samadder-/" height="30" width="40" /></a>
