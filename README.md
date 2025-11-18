@@ -1,4 +1,4 @@
-<h1 align="center">About Me </h1>
+<h1 align="left">👀 About Me </h1>
 <p align="left">I'm a passionate MERN Stack Developer with a strong focus on building clean, scalable, and user-friendly web applications. I enjoy turning ideas into real, functional products using modern JavaScript technologies. With hands-on experience in MongoDB, Express.js, React.js, and Node.js, I love working across both frontend and backend to deliver seamless full-stack solutions. I’m always exploring new tools, improving my code quality, and staying up to date with the latest industry trends. Whether it’s developing responsive UI, integrating APIs, managing databases, or optimizing performance, I aim to write efficient and maintainable code that creates real value. I enjoy solving problems, learning continuously, and collaborating with teams to build meaningful digital experiences. My goal is to grow as a developer and contribute to projects that make an impact.</p>
 
 
